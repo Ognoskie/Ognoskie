@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ognoskie&style=flat-square&color=blue" alt=""/>
 </div>
   <h2>
-  Hey there
+  Hey what's up
   <img src="https://media.giphy.com/media/eMy93wiQneLjamFnWH/giphy.gif" width="40px"/>
 </h2>
 </div>
