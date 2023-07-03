@@ -3,7 +3,7 @@
   <img src= https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif width="100"/>
 <!-- code for linkedIn button and url -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/braden-wittkop-9054ab209/">
+  <a href="https://www.linkedin.com/in/braden-wittkop/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -51,7 +51,7 @@ I have provided some information below about me:
 
    A: I like the fact that I have the ability to create/fix a website. 
 
-- 📫 You can reach me through my LinkedIn profile: [![Linkedin Badge](https://img.shields.io/badge/-Braden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braden-wittkop-9054ab209/)
+- 📫 You can reach me through my LinkedIn profile: [![Linkedin Badge](https://img.shields.io/badge/-Braden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braden-wittkop/)
 
 - ⚡ Fun fact: I love to work out and spend my time sitting outside and coding!
  
