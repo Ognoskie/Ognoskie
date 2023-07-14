@@ -33,7 +33,7 @@ Hey there my name is Braden and Welcome to my GitHub!!!🤙
 
 I have provided some information below about me:
 
-- 🔭 I’m currently working on creating a shopping app that will be interactive with the user to better my JavaScrpit/DOM skills!
+- 🔭 I’m currently working on creating a shopping app that will be interactive with the user to better my JavaScrpit/DOM/API skills!
 - 🌱 I’m currently learning frontend development but will soon be moving forward to backend development 
 - 👥 I’m looking to collaborate on making a website that will improve my HTML and CSS skills or any games that can better my skills with using JavaScript and the DOM.
 - 🤔 I’m looking for help with bettering myself as a person and as a web developer. I believe constructive criticism and working with others is the key to bettering yourself.
