@@ -92,7 +92,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ognoskie)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ognoskie&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 
 
