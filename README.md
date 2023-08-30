@@ -51,7 +51,7 @@ I have provided some information below about me:
 
    A: I like the fact that I have the ability to create/fix a website. 
 
-- 📫 You can reach me through my LinkedIn profile: [![Linkedin Badge](https://img.shields.io/badge/-Braden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braden-wittkop/)
+- 📫 You can reach me through my LinkedIn profile: [![Linkedin Badge](https://img.shields.io/badge/-Braden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braden-ognoskie/)
 
 - ⚡ Fun fact: I love to work out and spend my time sitting outside and coding!
  
