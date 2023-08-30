@@ -3,7 +3,7 @@
   <img src= https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif width="100"/>
 <!-- code for linkedIn button and url -->
 <div id="badges">
-  <a href="https://www.linkedin.com/in/braden-wittkop/">
+  <a href="https://www.linkedin.com/in/braden-ognoskie/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
