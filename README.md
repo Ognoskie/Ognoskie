@@ -33,68 +33,25 @@ Hey there my name is Braden and Welcome to my GitHub!!!🤙
 
 I have provided some information below about me:
 
-- 🔭 I’m currently working on learning React to better my Front-end JavaScript skills!
-- 🌱 I’m currently learning frontend development but will soon be moving forward to backend development 
-- 👥 I’m looking to collaborate on making projects that will improve my Front-end skills to include Javascript libraries and frameworks.
-- 🤔 I’m looking for help with bettering myself as a person and as a web developer. I believe constructive criticism and working with others is the key to bettering yourself.
-- 💬 Ask me about:
-
-  Q: Do you have any education with web development?
-
-   A: My only education with web development is through CodeUp LLC.
-
-   Q: How many years of coding do you have?
-
-   A: I've been coding since February of 2023.
-
-   Q: What do you like about coding?
-
-   A: I like the fact that I have the ability to create/fix a website. 
+- 🔭 I’m currently working on studying for the SSCP exam to strengthen my knowledge in cybersecurtiy and IT!
+- 🎓 I’m currently pursuing my bachelor’s degree at WGU in Cybersecurity and Information Assurance. I have obtained 70+ college credits, and I am on track to complete my degree by early 2026. 
+- 🏞️ I’m always looking for new opportunities that offer growth and a chance to learn new material in the IT and cybersecurity industry.
+- 🖥️ I’m currently working on two projects! One is building an Active Directory, and the other is performing a Digital Forensic image of a device while keeping the integrity of the files and data on the suspect’s device intact.
 
 - 📫 You can reach me through my LinkedIn profile: [![Linkedin Badge](https://img.shields.io/badge/-Braden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braden-ognoskie/)
-
-- ⚡ Fun fact: I love to work out and spend my time sitting outside and coding!
  
-
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 📜 Certificates:
 
 <div>
    <img
-     src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img
-     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img
-   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"        alt="MySQL" width="40" height="40"/>&nbsp;
-   <img
-src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain.svg" title="Jquery"  alt="Jquery" width="40" height="40"/>&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img
-  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    src="https://github.com/user-attachments/files/21435484/CompTIA.A%2B.ce.certificate.pdf"/>&nbsp;
+   
 </div>
 
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ognoskie&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ognoskie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+### 📚 Projects:
