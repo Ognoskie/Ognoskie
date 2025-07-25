@@ -45,13 +45,15 @@ I have provided some information below about me:
 
 ### 📜 Certificates:
 
-<div>
-   <img
-    src="https://github.com/user-attachments/files/21435484/CompTIA.A%2B.ce.certificate.pdf"/>&nbsp;
-   
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/d6833b40-8cd2-4286-a6a1-fbb3138cefc0" width="200" height="200" alt="CompTIA A+ ce certification"/>
+  <img src="https://github.com/user-attachments/assets/2a366e04-8372-4594-937a-7098af62f677" width="200" height="200" alt="CompTIA Network+ ce certification"/>
+  <img src="https://github.com/user-attachments/assets/98037be9-2e02-4da1-882b-cea10895beb6" width="200" height="200" alt="CompTIA Security+ ce certification"/>
+  <img src="https://github.com/user-attachments/assets/10d04060-1ebf-40ea-a8ce-0b74906d4f0d" width="200" height="200" alt="CompTIA IT Operations Specialist ce certification"/>
+  <img src="https://github.com/user-attachments/assets/3427da3e-07e2-47a8-b942-7ed22f54fa1a" width="200" height="200" alt="CompTIA Secure Infrastructure Specialist ce certification"/>
 </div>
-
 
 ---
 
 ### 📚 Projects:
+Uploading Soon!!!
