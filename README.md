@@ -33,7 +33,7 @@ Hey there my name is Braden and Welcome to my GitHub!!!🤙
 
 I have provided some information below about me:
 
-- 🔭 I’m currently working on studying for the SSCP exam to strengthen my knowledge in cybersecurtiy and IT!
+- 🔭 I’m currently working on studying for the CySA+ exam to strengthen my knowledge in cybersecurtiy and IT!
 - 🎓 I’m currently pursuing my bachelor’s degree at WGU in Cybersecurity and Information Assurance. I have obtained 70+ college credits, and I am on track to complete my degree by early 2026. 
 - 🏞️ I’m always looking for new opportunities that offer growth and a chance to learn new material in the IT and cybersecurity industry.
 - 🖥️ I’m currently working on two projects! One is building an Active Directory, and the other is performing a Digital Forensic image of a device while keeping the integrity of the files and data on the suspect’s device intact.
